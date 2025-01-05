@@ -1,7 +1,8 @@
 # Machine Learning Engineer
 
-# Education
- - BE in Computer Engineering , Pulchowk Campus
+# EDUCATION
+ - West Virginia University,PhD in Computer Science
+ - Pulchowk Campus, Institute of Engineering (IOE), Tribhuvan University (TU),Bachelors in computer engineering
 
 # Work Experience
 - Machine Learning Engineer coac GmbH
