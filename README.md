@@ -1,10 +1,8 @@
 # Machine Learning Engineer
 
-Education
+# Education
+ - BE in Computer Engineering , Pulchowk Campus
 
-BE in Computer Engineering , Pulchowk Campus
-
-Work Experience
-
+# Work Experience
 - Machine Learning Engineer coac GmbH
 - Research Assistant ,Nepal Applied Mathematics and Informatics Institute for Research
