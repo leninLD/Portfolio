@@ -4,7 +4,7 @@
  - West Virginia University,PhD in Computer Science
  - Pulchowk Campus, Institute of Engineering (IOE), Tribhuvan University (TU),Bachelors in computer engineering
 
- # SKILLS
+# SKILLS
  - Programming Languages: Python, C, C++, MATLAB, HTML, CSS, JavaScript
  - Libraries: Pytorch, Scikit-learn, OpenCV, SpaCy, Tensorflow, FastAPI, Django, Numpy, Pandas
  - Tools: Matplotlib, MongoDB, SQL, Jupyter Notebook, Conda
