@@ -5,10 +5,10 @@
  - Pulchowk Campus, Institute of Engineering (IOE), Tribhuvan University (TU),Bachelors in computer engineering
 
  # SKILLS
- Programming Languages: Python, C, C++, MATLAB, HTML, CSS, JavaScript
- Libraries: Pytorch, Scikit-learn, OpenCV, SpaCy, Tensorflow, FastAPI, Django, Numpy, Pandas
- Tools: Matplotlib, MongoDB, SQL, Jupyter Notebook, Conda
- Others: AWS, Git, Github, LaTeX, Jira, Docker, REST API, Photoshop
+ - Programming Languages: Python, C, C++, MATLAB, HTML, CSS, JavaScript
+ - Libraries: Pytorch, Scikit-learn, OpenCV, SpaCy, Tensorflow, FastAPI, Django, Numpy, Pandas
+ - Tools: Matplotlib, MongoDB, SQL, Jupyter Notebook, Conda
+ - Others: AWS, Git, Github, LaTeX, Jira, Docker, REST API, Photoshop
 
 # Work Experience
 - Machine Learning Engineer coac GmbH
