@@ -1,6 +1,6 @@
 
 
-# ![ ](/assets/elogo.jpg) EDUCATION
+# ![ ](asset/elogo.jpg) EDUCATION
 
  - West Virginia University,PhD in Computer Science
  - Pulchowk Campus, Institute of Engineering (IOE), Tribhuvan University (TU),Bachelors in computer engineering
