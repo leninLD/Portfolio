@@ -1,6 +1,6 @@
 
 
-# ![ ](https://github.com/leninLD/Portfolio/edit/main/assets/elogo.jpg) EDUCATION
+# ![ ](/assets/elogo.jpg) EDUCATION
 
  - West Virginia University,PhD in Computer Science
  - Pulchowk Campus, Institute of Engineering (IOE), Tribhuvan University (TU),Bachelors in computer engineering
