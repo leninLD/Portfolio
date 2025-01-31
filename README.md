@@ -34,7 +34,7 @@
      for limited annotated dataset available for medical imaging
  - Fusemachines Nepal 
  Machine Learning Engineer Sep. 2019– April 2021 Kathmandu, Nepal
-  - Developed AI applications to adhere to designs that support business requirements by researching and developing
+   - Developed AI applications to adhere to designs that support business requirements by researching and developing
  machine learning models
      - Led a team in an intelligent surgery project to develop and deploy ML pipeline to create 3D bones from multiple views
  of 2D x-ray images
