@@ -40,10 +40,10 @@
  of 2D x-ray images
     ∗ Positioned bones in 3D to identify varus-valgus deformity using image registration
     ∗ Used BOBYQAalgorithm to optimize eigen parameters of Statistical Shape Modelling
-    - Used pseudolabelling to use large number of unannotated data to track student status in fuseclassroom, an online learning management system
-    - Used elasticsearch to reduce search space in text comparisons to detect plagiarism between assignments within a class in fuseclassroom
-    - Conducted detailed error analysis of Nepali handwritten digits recognition model by breaking down error classes as part of research assistant training
-    - Created content for machine learning, deeplearning, mathematics and computer science, which are microdegree courses of AI School
+     - Used pseudolabelling to use large number of unannotated data to track student status in fuseclassroom, an online learning management system
+     - Used elasticsearch to reduce search space in text comparisons to detect plagiarism between assignments within a class in fuseclassroom
+     - Conducted detailed error analysis of Nepali handwritten digits recognition model by breaking down error classes as part of research assistant training
+     - Created content for machine learning, deeplearning, mathematics and computer science, which are microdegree courses of AI School
  - UBL R&DCenter �
  Software Engineering Intern July 2019– Sep. 2019 Lalitpur, Nepal
    - Designed and developed discussion forum as part of Learning Management System using Django.
