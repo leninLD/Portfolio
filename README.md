@@ -56,7 +56,7 @@
   <div style="border: 1px solid #ccc; padding: 10px; height: 150px; overflow-y: scroll;">
   <ul>
     <li>Alina Devkota, Binod Bhattarai, and Prashnna K. Gyawali. Foundation model training with federated learning for gastrovision. Under Review, 2024</li>
-    <li><a href="https://www.example.com/reference2">Reference 2</a> - Description of Reference 2.</li>
+    <li>Sanskar Amgain, Prashant Shrestha, Bidur Khanal, Alina Devkota, Yash Raj Shrestha,Seungryul Baek, Prashnna Kumar Gyawali, and Binod Bhattarai. Local k-similarity constraint for federated learning with label noise. Under Review, 2024.</li>
     <li><a href="https://www.example.com/reference3">Reference 3</a> - Description of Reference 3.</li>
     <li><a href="https://www.example.com/reference4">Reference 4</a> - Description of Reference 4.</li>
     <li><a href="https://www.example.com/reference5">Reference 5</a> - Description of Reference 5.</li>
