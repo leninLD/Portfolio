@@ -52,3 +52,18 @@
  Feb. 2019– Aug. 2019 Software Engineering Intern Kathmandu, Nepal
    - Worked on data collection, pre-processing and development of model (LSTM) for forecasting weather parameters in Kathmandu valley
    - Developed a web-app for data visualization of current weather and pollution statistics and to display predicted weather parameters
+# PUBLICAIONS
+  <div style="border: 1px solid #ccc; padding: 10px; height: 150px; overflow-y: scroll;">
+  <ul>
+    <li><a href="https://www.example.com/reference1">Reference 1</a> - Description of Reference 1.</li>
+    <li><a href="https://www.example.com/reference2">Reference 2</a> - Description of Reference 2.</li>
+    <li><a href="https://www.example.com/reference3">Reference 3</a> - Description of Reference 3.</li>
+    <li><a href="https://www.example.com/reference4">Reference 4</a> - Description of Reference 4.</li>
+    <li><a href="https://www.example.com/reference5">Reference 5</a> - Description of Reference 5.</li>
+    <li><a href="https://www.example.com/reference6">Reference 6</a> - Description of Reference 6.</li>
+    <li><a href="https://www.example.com/reference7">Reference 7</a> - Description of Reference 7.</li>
+    <li><a href="https://www.example.com/reference8">Reference 8</a> - Description of Reference 8.</li>
+    <li><a href="https://www.example.com/reference9">Reference 9</a> - Description of Reference 9.</li>
+    <li><a href="https://www.example.com/reference10">Reference 10</a> - Description of Reference 10.</li>
+  </ul>
+</div>
