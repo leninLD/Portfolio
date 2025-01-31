@@ -13,9 +13,9 @@
 
 # <img src="asset/briefcase.png" style="width:20px; height:20px;"> EXPERIENCE
  - LCSEE, West Virginia University Graduate Research Assistant, Morgantown, West Virginia, USA
-   Working on applying AI and ML to improve healthjcare.
-   Used deep learning to estimate heart ejection fraction from ECG signals
-   Trained a federated foundation model for GI endoscopy images.
+   - Working on applying AI and ML to improve healthjcare.
+     - Used deep learning to estimate heart ejection fraction from ECG signals
+     - Trained a federated foundation model for GI endoscopy images.
 - coac GmbH 
  Machine Learning Engineer April 2022– Dec. 2023 Cologne, Germany
  Ideate and implement AI solutions to meet project requirements and create quality products, mostly dealing with
