@@ -52,6 +52,7 @@
  Feb. 2019– Aug. 2019 Software Engineering Intern Kathmandu, Nepal
    - Worked on data collection, pre-processing and development of model (LSTM) for forecasting weather parameters in Kathmandu valley
    - Developed a web-app for data visualization of current weather and pollution statistics and to display predicted weather parameters
+     
 # PUBLICATIONS
   <div style="border: 1px solid #ccc; padding: 10px; height: 150px; overflow-y: scroll;">
   <ul>
