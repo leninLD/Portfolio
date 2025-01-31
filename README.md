@@ -18,7 +18,7 @@
      - Trained a federated foundation model for GI endoscopy images.
 - coac GmbH 
  Machine Learning Engineer April 2022– Dec. 2023 Cologne, Germany
- - Ideate and implement AI solutions to meet project requirements and create quality products, mostly dealing with
+   - Ideate and implement AI solutions to meet project requirements and create quality products, mostly dealing with
  information extraction from documents.
    - Improved OCR and time-efficient object detection in pdfs containing scanned schematic diagrams
    - Created API Endpoints for initiating text extraction and maintaining an inspection management system
