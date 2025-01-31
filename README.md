@@ -24,13 +24,13 @@
      - Created API Endpoints for initiating text extraction and maintaining an inspection management system
      - Conducted research on optimization algorithms to minimize lockdown in Germany Counties due to the pandemic
      - Used AI model to replicate a mathematical model to reduce computation time
- - NepAl Applied Mathematics and Informatics Institute for Research (NAAMII) �
+ - NepAl Applied Mathematics and Informatics Institute for Research (NAAMII)  
  Research Assistant, Part-time July 2021– July 2022 Kathmandu, Nepal
- Conduct research focused on computer vision tasks that can assist medical personnel in low-income countries like Nepal.
-   - Used UNET architecture for segmentation of fetal head to measure fetal head circumference in HC18 dataset
-   - Conducted a detailed literature review for detection of cancer in breast ultrasound images and used classification algorithm to detect benign and malignant
+   - Conduct research focused on computer vision tasks that can assist medical personnel in low-income countries like Nepal.
+     - Used UNET architecture for segmentation of fetal head to measure fetal head circumference in HC18 dataset
+     - Conducted a detailed literature review for detection of cancer in breast ultrasound images and used classification algorithm to detect benign and malignant
      cancer in ultrasound images of breasts
-   - Working on the exploration of semi-supervised techniques and attention across multiple datapoints to capture complex relationships between datapoints to use 
+     - Working on the exploration of semi-supervised techniques and attention across multiple datapoints to capture complex relationships between datapoints to use 
      for limited annotated dataset available for medical imaging
  - Fusemachines Nepal 
  Machine Learning Engineer Sep. 2019– April 2021 Kathmandu, Nepal
