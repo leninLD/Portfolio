@@ -20,10 +20,10 @@
  Machine Learning Engineer April 2022– Dec. 2023 Cologne, Germany
    - Ideate and implement AI solutions to meet project requirements and create quality products, mostly dealing with
  information extraction from documents.
-    - Improved OCR and time-efficient object detection in pdfs containing scanned schematic diagrams
-    - Created API Endpoints for initiating text extraction and maintaining an inspection management system
-    - Conducted research on optimization algorithms to minimize lockdown in Germany Counties due to the pandemic
-    - Used AI model to replicate a mathematical model to reduce computation time
+     - Improved OCR and time-efficient object detection in pdfs containing scanned schematic diagrams
+     - Created API Endpoints for initiating text extraction and maintaining an inspection management system
+     - Conducted research on optimization algorithms to minimize lockdown in Germany Counties due to the pandemic
+     - Used AI model to replicate a mathematical model to reduce computation time
  - NepAl Applied Mathematics and Informatics Institute for Research (NAAMII) �
  Research Assistant, Part-time July 2021– July 2022 Kathmandu, Nepal
  Conduct research focused on computer vision tasks that can assist medical personnel in low-income countries like Nepal.
