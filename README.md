@@ -55,7 +55,7 @@
 # PUBLICAIONS
   <div style="border: 1px solid #ccc; padding: 10px; height: 150px; overflow-y: scroll;">
   <ul>
-    <li><a href= [1] Alina Devkota, Binod Bhattarai, and Prashnna K. Gyawali. Foundation model training with federated learning for gastrovision. Under Review, 2024.></a></li>
+    <li>Alina Devkota, Binod Bhattarai, and Prashnna K. Gyawali. Foundation model training with federated learning for gastrovision. Under Review, 2024</li>
     <li><a href="https://www.example.com/reference2">Reference 2</a> - Description of Reference 2.</li>
     <li><a href="https://www.example.com/reference3">Reference 3</a> - Description of Reference 3.</li>
     <li><a href="https://www.example.com/reference4">Reference 4</a> - Description of Reference 4.</li>
