@@ -53,7 +53,7 @@
    - Worked on data collection, pre-processing and development of model (LSTM) for forecasting weather parameters in Kathmandu valley
    - Developed a web-app for data visualization of current weather and pollution statistics and to display predicted weather parameters
      
-# PUBLICATIONS
+# <img src="asset/pub.png" style="width:20px; height:20px;"> PUBLICATIONS
   <div style="border: 1px solid #ccc; padding: 10px; height: 150px; overflow-y: scroll;">
   <ul>
     <li>Alina Devkota, Binod Bhattarai, and Prashnna K. Gyawali. Foundation model training with federated learning for gastrovision. Under Review, 2024</li>
