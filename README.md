@@ -11,7 +11,7 @@
  - Tools: Matplotlib, MongoDB, SQL, Jupyter Notebook, Conda
  - Others: AWS, Git, Github, LaTeX, Jira, Docker, REST API, Photoshop
 
-# EXPERIENCE
+# <img src="asset/briefcase.jpg" style="width:20px; height:20px;"> EXPERIENCE
  - LCSEE, West Virginia University 
  Graduate Research Assistant
  Working on applying AI and ML to improve healthjcare.
