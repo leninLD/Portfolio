@@ -12,9 +12,8 @@
  - Others: AWS, Git, Github, LaTeX, Jira, Docker, REST API, Photoshop
 
 # <img src="asset/briefcase.png" style="width:20px; height:20px;"> EXPERIENCE
- - LCSEE, West Virginia University 
- Graduate Research Assistant
- Working on applying AI and ML to improve healthjcare.
+ - LCSEE, West Virginia University Graduate Research Assistant
+  Working on applying AI and ML to improve healthjcare.
  Used deep learning to estimate heart ejection fraction from ECG signals
  Trained a federated foundation model for GI endoscopy images.
  Jan 2024– Present
