@@ -57,13 +57,12 @@
   <ul>
     <li>Alina Devkota, Binod Bhattarai, and Prashnna K. Gyawali. Foundation model training with federated learning for gastrovision. Under Review, 2024</li>
     <li>Sanskar Amgain, Prashant Shrestha, Bidur Khanal, Alina Devkota, Yash Raj Shrestha,Seungryul Baek, Prashnna Kumar Gyawali, and Binod Bhattarai. Local k-similarity constraint for federated learning with label noise. Under Review, 2024.</li>
-    <li><a href="https://www.example.com/reference3">Reference 3</a> - Description of Reference 3.</li>
-    <li><a href="https://www.example.com/reference4">Reference 4</a> - Description of Reference 4.</li>
-    <li><a href="https://www.example.com/reference5">Reference 5</a> - Description of Reference 5.</li>
-    <li><a href="https://www.example.com/reference6">Reference 6</a> - Description of Reference 6.</li>
-    <li><a href="https://www.example.com/reference7">Reference 7</a> - Description of Reference 7.</li>
-    <li><a href="https://www.example.com/reference8">Reference 8</a> - Description of Reference 8.</li>
-    <li><a href="https://www.example.com/reference9">Reference 9</a> - Description of Reference 9.</li>
-    <li><a href="https://www.example.com/reference10">Reference 10</a> - Description of Reference 10.</li>
+    <li> Alina Devkota, Rukesh Prajapati, Amr El-Wakeel, Donald Adjeroh, Brijesh Patel, and Prashnna Gyawali. Ai analysis for ejection fraction estimation from 12-lead ecg: Insights from rural appalachian data. Under Review, 2024.</li>
+    <li> Nima Najafzadeh, Alina Devkota, Nima Karimian, Robin Chataut, Nasser M. Nasrabadi, and Prashnna Gyawali. A contrastive objective for multi-model ensemble learning. Under Review, 2024.</li>
+    <li> Jacob Thrasher, Alina Devkota, Ahmad P Tafti, Binod Bhattarai, Prashnna Gyawali, and Alzheimers Disease Neuroimaging Initiative. Te-ssl: Time and event-aware self supervised learning for alzheimers disease progression analysis. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 324–333. Springer, 2024.</li>
+    <li> Jacob Thrasher, Alina Devkota, Prasiddha Siwakotai, Rohit Chivukula, Pranav Poudel, Chaunbo Hu, Binod Bhattarai, and Prashnna Gyawali. Multimodal federated learning in healthcare: a review. arXiv preprint arXiv:2310.09650, 2023.</li>
+    <li> Nanda B Adhikari, Sushant Gautam, Alina Devkota, Saloni Shikha, Spandan Pyakurel, and
+ Mandira Pradhananga Adhikari. Near real-time mobile profiling and modeling of fine-scale environmental proxies along major road lines of nepal. In International Conference on Mobile Computing and Sustainable Informatics, pages 605–617. Springer, 2020.</li>
+    <li> Sushant Gautam, Saloni Shikha, Alina Devkota, and Spandan Pyakurel. Sentence ranking and answer pinpointing in online discussion forums utilising user-generated metrics and highlights. In Fourth International IT Conference On ICT for Smart Computing. NASCOIT, 2018.</li>
   </ul>
 </div>
