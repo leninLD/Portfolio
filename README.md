@@ -44,11 +44,11 @@
      - Used elasticsearch to reduce search space in text comparisons to detect plagiarism between assignments within a class in fuseclassroom
      - Conducted detailed error analysis of Nepali handwritten digits recognition model by breaking down error classes as part of research assistant training
      - Created content for machine learning, deeplearning, mathematics and computer science, which are microdegree courses of AI School
- - UBL R&DCenter �
+ - UBL R&DCenter 
  Software Engineering Intern July 2019– Sep. 2019 Lalitpur, Nepal
    - Designed and developed discussion forum as part of Learning Management System using Django.
    - Worked on development of database, REST APIs and front-end for the discussion forum
- - Leapfrog Technology, Inc �
+ - Leapfrog Technology, Inc 
  Feb. 2019– Aug. 2019 Software Engineering Intern Kathmandu, Nepal
    - Worked on data collection, pre-processing and development of model (LSTM) for forecasting weather parameters in Kathmandu valley
    - Developed a web-app for data visualization of current weather and pollution statistics and to display predicted weather parameters
